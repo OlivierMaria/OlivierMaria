@@ -24,9 +24,8 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlivierMaria&theme=dark&hide_border=false" alt="GitHub streak stats" style="display: block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierMaria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" style="display: block;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlivierMaria&theme=dark&hide_border=false" alt="GitHub streak stats" style="display: block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierMaria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" style="display: block;">
     <img src="https://github-readme-stats.vercel.app/api?username=OlivierMaria&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" style="display: block;">
 </div>
 
