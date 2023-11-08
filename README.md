@@ -1,5 +1,7 @@
 <img src="./bannerReadme.png">
 
+<br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/oliviermaria09/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -15,7 +17,10 @@
   </a>
 </div>
 
+<br>
+
 <hr>
+
 
 <h1 align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&duration=4000&pause=&color=F7F0F0&random=false&width=500&height=70&lines=Hello+Everyone+!+%F0%9F%91%8B;I'm+Olivier.;I'm+a+frontend+developer+!;Open+to+work!+%F0%9F%92%BB" alt="Typing SVG" /></a>
@@ -26,6 +31,8 @@
     I'm a Frontend web developer from Paris, looking for an opportunity to apply my skills in creating user interfaces. I'm passionate about web design and performance optimization, and I aim to contribute to practical projects. Open to new collaborations, I'm eager to further develop my Frontend development skills.
   </p>
 </div>
+
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -40,7 +47,6 @@
 </div>
 
 <hr>
-
 
 
 <h2>🚀 Streak Stats</h2>
