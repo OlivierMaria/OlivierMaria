@@ -1,10 +1,20 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=oliviermaria&label=Profile%20views&color=0e75b6&style=flat" alt="oliviermaria" /> 
-
-<h1 align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4000&pause=70&color=F79405&center=true&vCenter=true&random=false&width=435&lines=Bonjour%2C;je+suis+Olivier+Maria.+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="./banner.png">
+<div align="center">
+<a href="https://www.linkedin.com/in/oliviermaria09/" "target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-</h1>
+<a href="mailto:olivier-maria@hotmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="discordapp.com/users/399914873489719296" "target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href="https://maria-olivier-portfolio.netlify.app/" "target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+</div>
+
+<hr>
 
 
 <h1 align="center">
