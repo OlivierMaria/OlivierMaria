@@ -1,4 +1,4 @@
-<img src="./banner.png">
+<img src="./bannerReadme.png">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oliviermaria09/" target="_blank">
