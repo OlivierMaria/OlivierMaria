@@ -41,21 +41,15 @@
 
 <hr>
 
+<h2>🚀 Streak Stats</h2>
 
-# 📊 GitHub Stats:
-<center>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlivierMaria&theme=dark&hide_border=false">
-</center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlivierMaria&show_icons=true&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierMaria&layout=compact&theme=codeSTACKr)
 
-<center>
-    <img src="https://github-readme-stats.vercel.app/api?username=OlivierMaria&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-</center>
+<hr>
 
-<center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierMaria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</center>
+<h2>🤝 Contributions</h2>
 
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OlivierMaria&theme=shadow-orange)](https://git.io/streak-stats)
 
 
